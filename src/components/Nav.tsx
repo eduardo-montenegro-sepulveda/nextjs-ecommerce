@@ -7,7 +7,6 @@ const Nav = () =>
         <div
             style={
             {
-                color: 'white',
                 padding: '2rem 0',
                 display: 'flex',
                 justifyContent: 'space-between',
